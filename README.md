@@ -4,7 +4,7 @@ I'm newbie web developer trying to learn things.
 
 <img width="350" height="495" src="https://pbs.twimg.com/media/E2IfTzkUcAIvpSU?format=jpg&name=4096x4096" alt="Kyaa Skadi" />
 
-## Interested In:
+## Interested In
 - JavaScript / TypeScript
 - HTML
 - Css
