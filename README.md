@@ -1,15 +1,16 @@
-### Hi there, REWERK.
+## Hi there, REWERK.
 
 I'm newbie web developer trying to learn things.
 
 <img width="350" height="495" src="https://pbs.twimg.com/media/E2IfTzkUcAIvpSU?format=jpg&name=4096x4096" alt="Kyaa Skadi" />
 
-## Interested in:
+## Interested In:
 - JavaScript / TypeScript
 - HTML
 - Css
 
-## First Project:
+## My Work
+### First Project:
 - [Aesop proj](https://aesop-proj.netlify.app/) - [Repo](https://github.com/REWERK/Aesop-Proj)
   - Aesop fables reader website for kids.
   - 2nd year final project
