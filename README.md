@@ -15,7 +15,7 @@ I'm newbie web developer trying to learn things.
   - Aesop fables reader website for kids.
   - 2nd year final project
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rayriffy&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=REWERK&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **REWERK/REWERK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
