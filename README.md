@@ -15,8 +15,10 @@ I'm newbie web developer trying to learn things.
   - Aesop fables reader website for kids.
   - 2nd year final project
 
-##Stats
+## Stats
+
 [![REWERK's GitHub stats](https://github-readme-stats.vercel.app/api?username=REWERK&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=REWERK&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
