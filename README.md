@@ -14,7 +14,14 @@ I'm newbie web developer trying to learn things.
 - [Aesop proj](https://aesop-proj.netlify.app/) - [Repo](https://github.com/REWERK/Aesop-Proj)
   - Aesop fables reader website for kids.
   - 2nd year final project
-
+### Finished:
+- [Aesop proj](https://aesop-proj.netlify.app/) - [Repo](https://github.com/REWERK/Aesop-Proj)
+  - Aesop fables reader website for kids.
+  - 2nd year final project
+### Work In Progress (WIP):
+- [REFER]() - [Repo](https://github.com/REWERK/REFER)
+  - My game info , stats and guides
+  - to help people struggle in elo hell / ranking
 ## Stats
 
 [![REWERK's GitHub stats](https://github-readme-stats.vercel.app/api?username=REWERK&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
