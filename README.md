@@ -8,6 +8,7 @@ I'm newbie web developer trying to learn things.
 - JavaScript / TypeScript
 - HTML
 - Css
+- react
 
 ## My Work
 ### First Project:
