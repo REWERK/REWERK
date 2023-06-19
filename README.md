@@ -7,8 +7,10 @@ I'm newbie web developer trying to learn things.
 ## Interested In
 - JavaScript / TypeScript
 - HTML
-- Css
+- Css / Tailwind
 - React
+- Svelte
+- Elysia.js
 
 ## My Work
 ### First Project:
