@@ -21,10 +21,14 @@ I'm newbie web developer trying to learn things.
 - [Aesop proj](https://aesop-proj.netlify.app/) - [Repo](https://github.com/REWERK/Aesop-Proj)
   - Aesop fables reader website for kids.
   - 2nd year final project
-### Work In Progress (WIP) Finalize > Scratch:
 - [REBOARD]() - [Repo](https://github.com/REWERK/REBOARD)
   - My dashboard project
-  - To use to display something in number and table
+  - Use to display something in number and table
+  - Done but I still don't have any idea what to put in the dashboard
+- [TransferPT]() - [Repo](https://github.com/REWERK/TransferPT)
+  - Tabs component for collab project
+  - Use to enable tabs and config each tab to use
+### Work In Progress (WIP) Finalize > Scratch:
 - [REFER]() - [Repo](https://github.com/REWERK/REFER)
   - My game info , stats and guides
   - To help people struggle in elo hell / ranking
