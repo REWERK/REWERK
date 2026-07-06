@@ -2,7 +2,7 @@
 
 I'm newbie web developer trying to learn things.
 
-<img width="350" height="495" src="https://media1.tenor.com/m/FRMxpOHTRaMAAAAC/phibi-chubbi-phibi-chuppi.gif" alt="Phibi Chubbi" />
+<img width="495" height="495" src="https://media1.tenor.com/m/FRMxpOHTRaMAAAAC/phibi-chubbi-phibi-chuppi.gif" alt="Phibi Chubbi" />
 
 ## Interested In
 - JavaScript / TypeScript
